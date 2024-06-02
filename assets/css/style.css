@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #1e854c ;
+  background-color: #1e854c;
   color: #4e4e4e;
 }
 
@@ -257,7 +257,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #ff0000;
+  color: #1e854c;
   margin-right: 10px;
 }
 
@@ -270,7 +270,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px #000000;
   display: block;
 }
 
@@ -339,7 +339,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0078ff;
+  background: #000000;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -353,7 +353,7 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #298eff;
+  background: #085f01;
   color: #fff;
 }
 
@@ -874,7 +874,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
+  background-color: #05862c;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -969,7 +969,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: #000000;
 }
 
 .work-content .w-like {
@@ -979,7 +979,7 @@ a:hover {
 }
 
 .work-content .w-like a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .work-content .w-like .num-like {
@@ -1203,10 +1203,10 @@ a:hover {
 }
 
 .php-email-form button[type=submit] {
-  background: #0078ff;
+  background: #1e854c;
   border: 0;
   padding: 10px 24px;
-  color: #fff;
+  color: #ffffff;
   transition: 0.4s;
 }
 
@@ -1446,7 +1446,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #1e854c;
 }
 
 footer .copyright {
