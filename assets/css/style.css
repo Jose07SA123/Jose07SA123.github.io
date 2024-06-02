@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #f5f5f5;
+  background-color: #1e854c ;
   color: #4e4e4e;
 }
 
@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #3f943f;
 }
 
 .overlay-mf {
@@ -163,13 +163,13 @@ a:hover {
 
 .subtitle-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: #000000;
 }
 
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #000000;
   margin: 0 auto;
 }
 
@@ -187,7 +187,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #000000;
   width: 100px;
   bottom: -12px;
 }
@@ -228,12 +228,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #1e854c;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: #1e854c;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -257,7 +257,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #0078ff;
+  color: #ff0000;
   margin-right: 10px;
 }
 
@@ -849,7 +849,7 @@ a:hover {
 }
 
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: #dcf0dd;
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 0;
   height: 0.7rem;
@@ -857,7 +857,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #3f943f;
 }
 
 /*--------------------------------------------------------------
